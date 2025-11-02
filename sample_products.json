@@ -1,0 +1,239 @@
+[
+  {
+    "product_id": "prod_001",
+    "name": "Nike Air Zoom Pegasus 40",
+    "description": "Versatile running shoe with responsive cushioning. Perfect for daily training and long runs. Features Zoom Air units in forefoot and heel for smooth transitions. Breathable mesh upper keeps feet cool.",
+    "price": 139.99,
+    "category": "Running Shoes",
+    "brand": "Nike",
+    "rating": 4.5,
+    "specifications": {
+      "weight": "10.2 oz",
+      "drop": "10mm",
+      "support": "Neutral",
+      "terrain": "Road"
+    }
+  },
+  {
+    "product_id": "prod_002",
+    "name": "Brooks Ghost 15",
+    "description": "Smooth and reliable neutral running shoe. DNA LOFT cushioning for soft landings. Segmented Crash Pad adapts to your stride. Great for runners with flat feet seeking support.",
+    "price": 144.95,
+    "category": "Running Shoes",
+    "brand": "Brooks",
+    "rating": 4.7,
+    "specifications": {
+      "weight": "10.1 oz",
+      "drop": "12mm",
+      "support": "Neutral with good arch support",
+      "terrain": "Road"
+    }
+  },
+  {
+    "product_id": "prod_003",
+    "name": "ASICS Gel-Kayano 30",
+    "description": "Premium stability running shoe designed for overpronators. FF BLAST PLUS cushioning provides excellent energy return. 4D GUIDANCE SYSTEM for adaptive stability. Ideal for long-distance runners needing support.",
+    "price": 179.95,
+    "category": "Running Shoes",
+    "brand": "ASICS",
+    "rating": 4.6,
+    "specifications": {
+      "weight": "10.9 oz",
+      "drop": "10mm",
+      "support": "Stability",
+      "terrain": "Road"
+    }
+  },
+  {
+    "product_id": "prod_004",
+    "name": "Dell XPS 15 (2024)",
+    "description": "Premium laptop for professionals and creators. 15.6-inch 4K OLED display with stunning colors. Intel Core i7-13700H processor with 32GB RAM. NVIDIA GeForce RTX 4050 GPU for creative work and light gaming.",
+    "price": 1899.99,
+    "category": "Laptops",
+    "brand": "Dell",
+    "rating": 4.8,
+    "specifications": {
+      "processor": "Intel Core i7-13700H",
+      "ram": "32GB DDR5",
+      "storage": "1TB NVMe SSD",
+      "display": "15.6-inch 4K OLED",
+      "gpu": "NVIDIA RTX 4050"
+    }
+  },
+  {
+    "product_id": "prod_005",
+    "name": "MacBook Pro 14-inch M3",
+    "description": "Apple's powerful laptop with M3 chip for professionals. Liquid Retina XDR display delivers incredible visuals. Up to 22 hours battery life. Perfect for developers, video editors, and creative professionals.",
+    "price": 1999.00,
+    "category": "Laptops",
+    "brand": "Apple",
+    "rating": 4.9,
+    "specifications": {
+      "processor": "Apple M3",
+      "ram": "18GB Unified Memory",
+      "storage": "512GB SSD",
+      "display": "14.2-inch Liquid Retina XDR",
+      "gpu": "10-core GPU"
+    }
+  },
+  {
+    "product_id": "prod_006",
+    "name": "ASUS ROG Zephyrus G14",
+    "description": "Compact gaming laptop with serious power. AMD Ryzen 9 7940HS and NVIDIA RTX 4060. 14-inch QHD display at 165Hz. Lightweight at 3.64 lbs, perfect for gaming on the go.",
+    "price": 1599.99,
+    "category": "Laptops",
+    "brand": "ASUS",
+    "rating": 4.6,
+    "specifications": {
+      "processor": "AMD Ryzen 9 7940HS",
+      "ram": "16GB DDR5",
+      "storage": "1TB NVMe SSD",
+      "display": "14-inch QHD 165Hz",
+      "gpu": "NVIDIA RTX 4060"
+    }
+  },
+  {
+    "product_id": "prod_007",
+    "name": "Sony WH-1000XM5",
+    "description": "Industry-leading noise cancelling headphones. Exceptional sound quality with 30mm drivers. Up to 30 hours battery life. Perfect for travel, work, and music lovers. Comfortable for all-day wear.",
+    "price": 399.99,
+    "category": "Headphones",
+    "brand": "Sony",
+    "rating": 4.8,
+    "specifications": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.2, 3.5mm",
+      "battery": "30 hours",
+      "noise_cancellation": "Industry-leading ANC",
+      "weight": "250g"
+    }
+  },
+  {
+    "product_id": "prod_008",
+    "name": "Bose QuietComfort Ultra",
+    "description": "Premium wireless headphones with spatial audio. CustomTune technology adapts to your ears. World-class noise cancellation. Luxurious comfort with soft ear cushions.",
+    "price": 429.00,
+    "category": "Headphones",
+    "brand": "Bose",
+    "rating": 4.7,
+    "specifications": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.3",
+      "battery": "24 hours",
+      "noise_cancellation": "Advanced ANC with spatial audio",
+      "weight": "254g"
+    }
+  },
+  {
+    "product_id": "prod_009",
+    "name": "Canon EOS R6 Mark II",
+    "description": "Full-frame mirrorless camera for enthusiasts and professionals. 24.2MP sensor with excellent low-light performance. 40 fps continuous shooting. 6K video recording. Perfect for wildlife and sports photography.",
+    "price": 2499.00,
+    "category": "Cameras",
+    "brand": "Canon",
+    "rating": 4.9,
+    "specifications": {
+      "sensor": "24.2MP Full-Frame CMOS",
+      "video": "6K RAW, 4K 60fps",
+      "autofocus": "Dual Pixel CMOS AF II",
+      "burst_rate": "40 fps electronic",
+      "stabilization": "In-body 8-stop IS"
+    }
+  },
+  {
+    "product_id": "prod_010",
+    "name": "Sony A7 IV",
+    "description": "Versatile full-frame hybrid camera. 33MP sensor balances resolution and speed. Advanced AI autofocus with real-time tracking. 4K 60fps video. Ideal for photography and videography beginners to pros.",
+    "price": 2498.00,
+    "category": "Cameras",
+    "brand": "Sony",
+    "rating": 4.8,
+    "specifications": {
+      "sensor": "33MP Full-Frame Exmor R",
+      "video": "4K 60fps, 10-bit 4:2:2",
+      "autofocus": "759-point Fast Hybrid AF",
+      "burst_rate": "10 fps",
+      "stabilization": "5-axis in-body"
+    }
+  },
+  {
+    "product_id": "prod_011",
+    "name": "Fujifilm X-T5",
+    "description": "Retro-styled APS-C mirrorless camera with 40MP sensor. Classic film simulations beloved by photographers. Compact and lightweight. Excellent for street photography and travel. Great image quality in a portable package.",
+    "price": 1699.00,
+    "category": "Cameras",
+    "brand": "Fujifilm",
+    "rating": 4.7,
+    "specifications": {
+      "sensor": "40.2MP APS-C X-Trans CMOS 5 HR",
+      "video": "6.2K 30fps",
+      "autofocus": "425-point phase detection",
+      "burst_rate": "15 fps electronic",
+      "stabilization": "5-axis in-body"
+    }
+  },
+  {
+    "product_id": "prod_012",
+    "name": "iPhone 15 Pro Max",
+    "description": "Apple's flagship smartphone with titanium design. A17 Pro chip delivers console-quality gaming. Pro camera system with 5x telephoto. Action button for quick shortcuts. USB-C connectivity.",
+    "price": 1199.00,
+    "category": "Smartphones",
+    "brand": "Apple",
+    "rating": 4.8,
+    "specifications": {
+      "display": "6.7-inch Super Retina XDR",
+      "processor": "A17 Pro",
+      "camera": "48MP main, 5x telephoto",
+      "battery": "Up to 29 hours video",
+      "storage": "256GB"
+    }
+  },
+  {
+    "product_id": "prod_013",
+    "name": "Samsung Galaxy S24 Ultra",
+    "description": "Samsung's ultimate smartphone with S Pen. 200MP camera with AI enhancements. Snapdragon 8 Gen 3 for Galaxy processor. 6.8-inch Dynamic AMOLED display. Best for power users and photographers.",
+    "price": 1299.99,
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "rating": 4.7,
+    "specifications": {
+      "display": "6.8-inch Dynamic AMOLED 2X",
+      "processor": "Snapdragon 8 Gen 3",
+      "camera": "200MP main, 5x & 3x telephoto",
+      "battery": "5000mAh",
+      "storage": "256GB"
+    }
+  },
+  {
+    "product_id": "prod_014",
+    "name": "Google Pixel 8 Pro",
+    "description": "Google's AI-powered flagship with best-in-class computational photography. Tensor G3 chip. 7 years of OS updates. Temperature sensor. Perfect for photography enthusiasts who want the best point-and-shoot experience.",
+    "price": 999.00,
+    "category": "Smartphones",
+    "brand": "Google",
+    "rating": 4.6,
+    "specifications": {
+      "display": "6.7-inch LTPO OLED",
+      "processor": "Google Tensor G3",
+      "camera": "50MP main with AI enhancements",
+      "battery": "5050mAh",
+      "storage": "128GB"
+    }
+  },
+  {
+    "product_id": "prod_015",
+    "name": "Garmin Forerunner 965",
+    "description": "Premium GPS running watch with AMOLED display. Advanced training metrics and performance analytics. Full-color maps for navigation. Up to 23 days battery life. Perfect for serious runners and triathletes.",
+    "price": 599.99,
+    "category": "Smartwatches",
+    "brand": "Garmin",
+    "rating": 4.8,
+    "specifications": {
+      "display": "1.4-inch AMOLED",
+      "battery": "23 days smartwatch, 31 hours GPS",
+      "sensors": "GPS, heart rate, pulse ox",
+      "features": "Training Readiness, HRV Status",
+      "weight": "53g"
+    }
+  }
+]
