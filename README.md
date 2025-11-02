@@ -7,7 +7,7 @@
 
 **SmartRetail AI** is an intelligent shopping assistant powered by NVIDIA's Llama-3.1-Nemotron and NV-Embed-v2 models, featuring a multi-agent architecture that provides natural language product search, intelligent comparisons, and personalized recommendations with transparent reasoning.
 
-Built for the **NVIDIA NIM + AWS EKS Hackathon**.
+Built for the **Agentic AI Unleashed: AWS & NVIDIA Hackathon**.
 
 ---
 
@@ -491,14 +491,14 @@ This is a hackathon project, but contributions and suggestions are welcome!
 
 ## 📄 License
 
-This project is created for the NVIDIA NIM + AWS EKS Hackathon.
+This project is created for the Agentic AI Unleashed: AWS & NVIDIA Hackathon.
 
 ---
 
 ## 📧 Contact
 
 **Project**: SmartRetail AI
-**Built for**: NVIDIA NIM + AWS EKS Hackathon
+**Built for**: Agentic AI Unleashed: AWS & NVIDIA Hackathon
 **Architecture**: Multi-Agent RAG System
 **Tech Stack**: NVIDIA NIM, AWS OpenSearch, LangChain, Gradio
 
